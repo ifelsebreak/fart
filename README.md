@@ -1,4 +1,4 @@
-# Dart language evolution
+# Fart, the crappier version of Dart
 
 [![Build Status](https://github.com/dart-lang/language/workflows/CI/badge.svg)](https://github.com/dart-lang/language/actions?query=workflow%3ACI+branch%3Amain)
 
